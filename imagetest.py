@@ -103,3 +103,4 @@ image_path = "C:/Users/KIRA/traffic/traffic/test6.png"
 yolo_model_path = "./runs/detect/train/weights/best.pt"
 cnn_model_path = './Models/traffic_sign_classifier_v5.0_e10_b32.h5'
 start_image_inference(image_path, yolo_model_path, cnn_model_path)
+# Enhancement update for 2024-01-11 12:00:00
