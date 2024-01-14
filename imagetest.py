@@ -128,3 +128,5 @@ start_image_inference(image_path, yolo_model_path, cnn_model_path)
 # Enhancement update at 2024-01-06 16:14:45
 
 # Enhancement update at 2024-01-11 13:47:03
+
+# Enhancement update at 2024-01-14 17:50:08
