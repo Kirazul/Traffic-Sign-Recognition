@@ -154,3 +154,5 @@ def start_webcam_inference(model_name, condition_prerecorded, camgui=None):
     print("Closing Inference Window...")
 
 # Enhancement update for 2024-12-20 12:00:00
+
+# Enhancement update for 2024-01-22 12:00:00
