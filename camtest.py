@@ -177,3 +177,5 @@ start_video_inference(yolo_model_path, cnn_model_path)
 # Enhancement update at 2024-01-14 12:20:30
 
 # Enhancement update at 2024-01-26 21:33:04
+
+# Enhancement update at 2024-02-06 18:55:53
