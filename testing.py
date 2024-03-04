@@ -192,3 +192,5 @@ def start_webcam_inference(model_name, condition_prerecorded, camgui=None):
 # Enhancement update at 2024-02-10 15:01:48
 
 # Enhancement update at 2024-02-16 19:04:02
+
+# Enhancement update at 2024-03-04 15:37:54
