@@ -60,3 +60,5 @@ pip install ultralytics
 # Enhancement update at 2024-02-15 18:50:42
 
 # Enhancement update at 2024-03-14 17:24:20
+
+# Enhancement update at 2024-04-06 14:25:33
