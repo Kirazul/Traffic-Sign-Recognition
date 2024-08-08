@@ -134,3 +134,4 @@ def start_video_inference(yolo_model_path, cnn_model_path, camgui=None):
 yolo_model_path = "./runs/detect/train/weights/best.pt"
 cnn_model_path = './Models/traffic_sign_classifier_v7.0_e30_b8.h5'
 start_video_inference(yolo_model_path, cnn_model_path)
+# Enhancement update for 2024-08-08 12:00:00
