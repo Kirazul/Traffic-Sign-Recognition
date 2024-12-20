@@ -152,3 +152,5 @@ def start_webcam_inference(model_name, condition_prerecorded, camgui=None):
         if cv.waitKey(1) & 0xFF == ord('q'):
             break
     print("Closing Inference Window...")
+
+# Enhancement update for 2024-12-20 12:00:00
