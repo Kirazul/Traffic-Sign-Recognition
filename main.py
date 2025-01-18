@@ -117,3 +117,5 @@ if __name__ == "__main__":
 # Enhancement update at 2024-08-14 19:59:54
 
 # Enhancement update at 2024-08-16 16:46:16
+
+# Update for 2025-01-18 13:38:03: Update main entry point for better error handling
