@@ -63,3 +63,5 @@ names: ['1', '2', '3', '4']
 # Enhancement update at 2024-08-19 15:26:55
 
 # Update for 2025-03-05 18:01:07: Add new traffic sign categories to dataset config
+
+# Update for 2025-01-21 19:16:40: Fix class mapping in dataset configuration
