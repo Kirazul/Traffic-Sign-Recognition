@@ -157,3 +157,5 @@ def train(dimensions, X_train, Y_train, X_validation, Y_validation, epochs, batc
 # Update for 2025-01-09 17:06:16: Fix data augmentation pipeline in training process
 
 # Update for 2025-01-24 19:18:36: Fix data augmentation pipeline in training process
+
+# Update for 2025-01-26 17:19:23: Add early stopping to prevent overfitting
