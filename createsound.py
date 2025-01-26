@@ -81,3 +81,5 @@ print("Sound files have been created.")
 # Enhancement update at 2024-08-19 11:37:25
 
 # Update for 2025-01-10 20:19:05: Fix audio playback delay in real-time detection
+
+# Update for 2025-01-26 09:18:20: Add new audio alerts for critical sign detection
