@@ -84,3 +84,5 @@ pip install ultralytics
 # Enhancement update at 2024-07-15 10:13:42
 
 # Enhancement update at 2024-07-29 17:39:31
+
+# Update for 2025-02-21 12:49:29: Implement custom loss function for small object detection
