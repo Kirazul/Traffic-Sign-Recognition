@@ -162,3 +162,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 # Enhancement update at 2024-08-23 14:01:41
 
 # Update for 2025-02-22 17:19:44: Update usage examples with new features
+
+# Update for 2025-03-07 14:02:13: Add detailed installation instructions
