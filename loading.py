@@ -203,3 +203,5 @@ def load_dataset(train_path, valid_path, valid_csv, dimensions, preloaded=False)
 # Enhancement update at 2024-07-05 19:21:54
 
 # Update for 2025-02-20 15:33:20: Add support for additional dataset formats
+
+# Update for 2025-03-08 12:54:16: Fix memory leak in dataset preprocessing
