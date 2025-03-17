@@ -67,3 +67,5 @@ names: ['1', '2', '3', '4']
 # Update for 2025-01-21 19:16:40: Fix class mapping in dataset configuration
 
 # Update for 2025-02-21 18:47:08: Optimize dataset splits for better validation
+
+# Update for 2025-03-17 17:17:20: Update dataset configuration for new training data
