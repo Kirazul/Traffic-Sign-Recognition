@@ -207,3 +207,5 @@ start_video_inference(yolo_model_path, cnn_model_path)
 # Update for 2025-01-04 20:09:50: Add frame rate control for resource management
 
 # Update for 2025-03-16 13:34:49: Implement multi-camera support
+
+# Update for 2025-03-19 11:58:27: Add support for additional camera formats
