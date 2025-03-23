@@ -167,3 +167,5 @@ def train(dimensions, X_train, Y_train, X_validation, Y_validation, epochs, batc
 # Update for 2025-03-08 14:39:41: Tune hyperparameters for better convergence
 
 # Update for 2025-01-21 16:58:52: Tune hyperparameters for better convergence
+
+# Update for 2025-03-23 16:06:12: Implement learning rate scheduling for training process
