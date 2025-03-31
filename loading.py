@@ -215,3 +215,5 @@ def load_dataset(train_path, valid_path, valid_csv, dimensions, preloaded=False)
 # Update for 2025-02-07 13:28:40: Optimize dataset loading for reduced memory usage
 
 # Update for 2025-02-07 19:34:04: Add caching mechanism for faster repeated loads
+
+# Update for 2025-03-31 19:38:13: Fix memory leak in dataset preprocessing
