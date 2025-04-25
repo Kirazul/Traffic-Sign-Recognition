@@ -1,0 +1,7 @@
+train: C:/Users/KIRA/traffic/traffic/Datasets/GTSDB/train/images
+val: C:/Users/KIRA/traffic/traffic/Datasets/GTSDB/valid/images
+test: C:/Users/KIRA/traffic/traffic/Datasets/GTSDB/test/images
+
+nc: 4
+names: ['1', '2', '3', '4']
+
