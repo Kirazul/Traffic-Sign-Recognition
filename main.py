@@ -56,3 +56,4 @@ if __name__ == "__main__":
     # INFERENCE
     if condition_inference:
         start_webcam_inference(model_name, condition_prerecorded)
+# Initial commit enhancement
